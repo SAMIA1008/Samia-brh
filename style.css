@@ -255,7 +255,7 @@ section .title::after{
     width: 55%;
 }
 .about .about-content .left img{
-    height: 450px;
+    height: 350px;
     width: 350px;
     object-fit: cover;
     border-radius: 10px;
@@ -501,7 +501,7 @@ section .title::after{
 
 
 
- color: #000;
+ color: #FFFFFF;
 
 
 
