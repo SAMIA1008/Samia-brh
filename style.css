@@ -526,7 +526,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: #FFFFFF;
 }
 .contact .right form .fields{
     display: flex;
@@ -833,7 +833,7 @@ footer span a:hover{
     }
     .services .title::after,
     .teams .title::after{
-    background: #111;
+    background: #FFFFFF;
     content: "";
 }
 }
